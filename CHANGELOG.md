@@ -2,10 +2,10 @@
 
 ## 04-05-2024
 ### Contributors
-yuktha deesan
+Yuktha Deesan
 
 ### Added
-* Added an image of the assembled board (submission.jpg)
+* Added an image of the assembled board (submission.heic)
 
 ### Changed
 ...
