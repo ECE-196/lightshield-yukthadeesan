@@ -2,7 +2,7 @@
 
 ## 04-05-2024
 ### Contributors
-* yuktha deesan
+yuktha deesan
 
 ### Added
 * Added an image of the assembled board (submission.jpg)
